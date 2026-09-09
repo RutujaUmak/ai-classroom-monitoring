@@ -56,4 +56,8 @@ def webcam(output_file: str = "output.mp4"):
     process_webcam(output_file)
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app()
+=======
+    app()
+>>>>>>> eb6afe28cc926a2de946dbf6ef4f7b609e120e1b

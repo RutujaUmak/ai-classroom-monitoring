@@ -1,0 +1,28 @@
+message,severity,policy,policy_id,timestamp,confidence,status,icon
+Looking Around detected,high,Refer to examination policy,N/A,2026-07-29T12:18:18.395750,0.8730365770844457,active,👤
+Suspicious Hand Movement detected,high,"If a student is observed displaying suspicious behavior such as frequent head turning, looking at neighboring desks, or using unauthorized materials, the invigilator should document the incident and report to the examination coordinator.",POL-003,2026-07-29T12:18:18.498355,0.819250467372338,active,👤
+Head Turning detected,high,Refer to examination policy,N/A,2026-07-29T12:18:18.807253,0.880078091796491,active,👤
+Student Group detected,high,Refer to examination policy,N/A,2026-07-29T12:18:19.011558,0.8776648249609271,active,👥
+Student Group detected,medium,Refer to examination policy,N/A,2026-07-29T12:18:19.113695,0.7052669588561316,active,👥
+Cell Phone detected,high,"Mobile phones are strictly prohibited during examinations. If a student is found with a mobile phone, it will be confiscated and the student may face disciplinary action.",POL-001,2026-07-29T12:18:19.420208,0.8506078943574493,active,⚠️
+Laptop detected,high,Refer to examination policy,N/A,2026-07-29T12:18:20.137010,0.9169405295597965,active,⚠️
+Looking Around detected,high,Refer to examination policy,N/A,2026-07-29T12:18:20.137183,0.9227206045052899,active,👤
+Laptop detected,medium,Refer to examination policy,N/A,2026-07-29T12:18:20.240930,0.6544156419225509,active,⚠️
+Rapid Movement detected,high,Refer to examination policy,N/A,2026-07-29T12:20:30.499759,0.8617106606326261,active,👤
+Smartwatch detected,medium,Smartwatches are not permitted in examination halls. Students must remove and store smartwatches before entering the examination venue.,POL-002,2026-07-29T12:20:30.704008,0.6744669542109457,active,⚠️
+Student Group detected,medium,Refer to examination policy,N/A,2026-07-29T12:20:30.704279,0.7588594006099691,active,👥
+Cell Phone detected,medium,"Mobile phones are strictly prohibited during examinations. If a student is found with a mobile phone, it will be confiscated and the student may face disciplinary action.",POL-001,2026-07-29T12:20:30.807026,0.784236848086947,active,⚠️
+Cell Phone detected,high,"Mobile phones are strictly prohibited during examinations. If a student is found with a mobile phone, it will be confiscated and the student may face disciplinary action.",POL-001,2026-07-29T12:20:30.911125,0.8492867954259122,active,⚠️
+Suspicious Hand Movement detected,medium,"If a student is observed displaying suspicious behavior such as frequent head turning, looking at neighboring desks, or using unauthorized materials, the invigilator should document the incident and report to the examination coordinator.",POL-003,2026-07-29T12:20:30.911519,0.7379349660765472,active,👤
+Smartwatch detected,medium,Smartwatches are not permitted in examination halls. Students must remove and store smartwatches before entering the examination venue.,POL-002,2026-07-29T12:20:31.014016,0.7753008288851113,active,⚠️
+Student Group detected,high,Refer to examination policy,N/A,2026-07-29T12:20:31.014136,0.9429112667141814,active,👥
+Suspicious Hand Movement detected,high,"If a student is observed displaying suspicious behavior such as frequent head turning, looking at neighboring desks, or using unauthorized materials, the invigilator should document the incident and report to the examination coordinator.",POL-003,2026-07-29T12:20:31.116327,0.907206762841717,active,👤
+Student Group detected,medium,Refer to examination policy,N/A,2026-07-29T12:20:31.116707,0.7759103989304639,active,👥
+Cell Phone detected,high,"Mobile phones are strictly prohibited during examinations. If a student is found with a mobile phone, it will be confiscated and the student may face disciplinary action.",POL-001,2026-07-29T12:20:31.219400,0.9913426100453304,active,⚠️
+Student Group detected,medium,Refer to examination policy,N/A,2026-07-29T12:20:31.322085,0.7664411812548153,active,👥
+Calculator detected,high,Refer to examination policy,N/A,2026-07-29T12:20:31.424816,0.841793772560876,active,⚠️
+Laptop detected,medium,Refer to examination policy,N/A,2026-07-29T12:20:31.527347,0.7078201370013391,active,⚠️
+Rapid Movement detected,high,Refer to examination policy,N/A,2026-07-29T12:20:31.631376,0.8429803642685654,active,👤
+Student Group detected,high,Refer to examination policy,N/A,2026-07-29T12:20:31.836004,0.8246651504607613,active,👥
+Calculator detected,medium,Refer to examination policy,N/A,2026-07-29T12:20:32.041355,0.7512608236006599,active,⚠️
+Student Group detected,high,Refer to examination policy,N/A,2026-07-29T12:20:32.143621,0.9457327461516588,active,👥
