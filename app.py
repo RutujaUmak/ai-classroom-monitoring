@@ -5,6 +5,14 @@ import pandas as pd
 from datetime import datetime
 import streamlit as st
 from ultralytics import YOLO
+import streamlit as st
+
+try:
+    import cv2
+    st.success(f"OpenCV loaded: {cv2.__version__}")
+except Exception as e:
+    st.error(f"OpenCV error: {e}")
+    st.stop()
 
 
 # ============================================================
