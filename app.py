@@ -1,4 +1,4 @@
-```python
+
 import os
 import cv2
 import tempfile
