@@ -5,6 +5,24 @@ from datetime import datetime
 import streamlit as st
 import pandas as pd
 
+try:
+    import cv2
+except Exception as e:
+    st.error(f"OpenCV loading failed: {e}")
+    st.stop()
+
+from ultralytics import YOLO
+
+
+
+
+import os
+import tempfile
+from datetime import datetime
+
+import streamlit as st
+import pandas as pd
+
 # ---------------------------------------------------------
 # PAGE CONFIG
 # ---------------------------------------------------------
